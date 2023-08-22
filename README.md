@@ -1,1 +1,2 @@
 # Shopping-App
+<p>In this mini project, we have implemented a simplified version of a shopping cart feature. It includes functions to add products to the cart, remove products from the cart, and display the cart contents. The program initializes some sample products and adds them to the cart. It then displays the cart contents and removes a product from the cart before displaying the updated cart contents.</p>
